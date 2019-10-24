@@ -13,14 +13,14 @@
 
 
                                 <div class="nd_options_display_table_cell nd_options_vertical_align_middle    ">
-                                    <a href="terms-and-conditions/index.html"><img alt="" width="15" class="nd_options_margin_right_10 nd_options_float_left" src="wp-content/uploads/2017/07/icon-1.png"></a>
+                                    <a href="#"><img alt="" width="15" class="nd_options_margin_right_10 nd_options_float_left" src="wp-content/uploads/2017/07/icon-1.png"></a>
                                 </div>
 
 
 
 
                                 <div class="nd_options_display_table_cell nd_options_vertical_align_middle    ">
-                                    <a style="color:;" class="nd_options_margin_right_20 nd_options__font " href="terms-and-conditions/index.html">Address: Victoria Island, Lagos</a>
+                                    <a style="color:;" class="nd_options_margin_right_20 nd_options__font " href="#">Address: Victoria Island, Lagos</a>
                                 </div>
 
 
@@ -39,7 +39,7 @@
 
 
                                 <div class="nd_options_display_table_cell nd_options_vertical_align_middle    ">
-                                    <a style="color:;" class="nd_options_margin_right_20 nd_options__font " href="terms-and-conditions/index.html">email: info@hardleyapartmanets.ng</a>
+                                    <a style="color:;" class="nd_options_margin_right_20 nd_options__font " href="#">email: info@hardleyapartmanets.ng</a>
                                 </div>
 
 
@@ -53,7 +53,7 @@
 
 
                             <div id="" style="background-color:#c19b77;" class="  nd_options_display_table nd_options_float_right nd_options_padding_10_20 nd_options_margin_right_15">
-                                <a href="my-account/index.html"><img alt="" class="nd_options_margin_right_10 nd_options_display_table_cell nd_options_vertical_align_middle nd_options_border_radius_100_percentage" width="30" src="wp-content/plugins/nd-shortcodes/addons/customizer/shortcodes/login/img/avatar.jpg"></a>
+                                <a href="#"><img alt="" class="nd_options_margin_right_10 nd_options_display_table_cell nd_options_vertical_align_middle nd_options_border_radius_100_percentage" width="30" src="wp-content/plugins/nd-shortcodes/addons/customizer/shortcodes/login/img/avatar.jpg"></a>
                                 <div class="nd_options_display_table_cell nd_options_vertical_align_middle">
                                     <p class="nd_options_font_size_12 nd_options_text_align_left"><a class="nd_options_color_white nd_options_first_font" href="coming-soon/coming_soon.php">My Account</a></p>
                                     <div class="nd_options_section nd_options_height_5"></div>

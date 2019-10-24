@@ -1182,67 +1182,67 @@ Click the help icon above to learn more.
                         <li id="menu-item-791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-16 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-791"><a href="index.html" aria-current="page">Home</a>
                             <ul class="sub-menu">
                                 <li id="menu-item-905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-16 current_page_item menu-item-905"><a href="index.html" aria-current="page">Home 1</a></li>
-                                <li id="menu-item-904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904"><a href="home-2/index.html">Home 2</a></li>
-                                <li id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-903"><a href="home-3/index.html">Home 3</a></li>
-                                <li id="menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-902"><a href="home-4/index.html">Home 4</a></li>
-                                <li id="menu-item-901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-901"><a href="home-5/index.html">Home 5</a></li>
-                                <li id="menu-item-900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-900"><a href="home-6/index.html">Home 6</a></li>
-                                <li id="menu-item-1312" class="nd_options_new_label menu-item menu-item-type-post_type menu-item-object-page menu-item-1312"><a href="home-7/index.html">Home 7</a></li>
+                                <li id="menu-item-904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904"><a href="#">Home 2</a></li>
+                                <li id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-903"><a href="#">Home 3</a></li>
+                                <li id="menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-902"><a href="#">Home 4</a></li>
+                                <li id="menu-item-901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-901"><a href="#">Home 5</a></li>
+                                <li id="menu-item-900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-900"><a href="#">Home 6</a></li>
+                                <li id="menu-item-1312" class="nd_options_new_label menu-item menu-item-type-post_type menu-item-object-page menu-item-1312"><a href="#">Home 7</a></li>
                                 <li id="menu-item-1284" class="nd_options_demo_label menu-item menu-item-type-custom menu-item-object-custom menu-item-1284"><a target="_blank" rel="noopener noreferrer" href="http://www.nicdarkthemes.com/themes/hotel/wp/demo/multilingual/">Multilingual</a></li>
                             </ul>
                         </li>
                         <li id="menu-item-794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-794"><a href="search/index.html">Rooms</a>
                             <ul class="sub-menu">
-                                <li id="menu-item-1161" class="nd_options_best_label menu-item menu-item-type-post_type menu-item-object-nd_booking_cpt_1 menu-item-1161"><a href="rooms/small-room/index.html">Room Gallery</a></li>
-                                <li id="menu-item-1162" class="menu-item menu-item-type-post_type menu-item-object-nd_booking_cpt_1 menu-item-1162"><a href="rooms/room-with-view/index.html">Room Video</a></li>
-                                <li id="menu-item-1163" class="menu-item menu-item-type-post_type menu-item-object-nd_booking_cpt_1 menu-item-1163"><a href="rooms/apartment/index.html">Room Default</a></li>
-                                <li id="menu-item-803" class="menu-item menu-item-type-post_type menu-item-object-nd_booking_cpt_4 menu-item-803"><a href="branches/hotel-london/index.html">Single Branch</a></li>
+                                <li id="menu-item-1161" class="nd_options_best_label menu-item menu-item-type-post_type menu-item-object-nd_booking_cpt_1 menu-item-1161"><a href="#small-room/index.#">Room Gallery</a></li>
+                                <li id="menu-item-1162" class="menu-item menu-item-type-post_type menu-item-object-nd_booking_cpt_1 menu-item-1162"><a href="#room-with-view/index.#">Room Video</a></li>
+                                <li id="menu-item-1163" class="menu-item menu-item-type-post_type menu-item-object-nd_booking_cpt_1 menu-item-1163"><a href="#apartment/index.#">Room Default</a></li>
+                                <li id="menu-item-803" class="menu-item menu-item-type-post_type menu-item-object-nd_booking_cpt_4 menu-item-803"><a href="branches/hotel-london/index.#">Single Branch</a></li>
                             </ul>
                         </li>
-                        <li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a href="about-us/index.html">About Us</a></li>
+                        <li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a href="#">About Us</a></li>
                         <li id="menu-item-825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-825"><a href="#">Pages</a>
                             <ul class="sub-menu">
-                                <li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="around-hotel/index.html">Around Us</a></li>
-                                <li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="terms-and-conditions/index.html">Terms &#038; Conditions</a></li>
-                                <li id="menu-item-1166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1166"><a href="our-services/index.html">Services</a></li>
-                                <li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-848"><a href="contact/index.html">Contact</a>
+                                <li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="around-hotel/index.#">Around Us</a></li>
+                                <li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="terms-and-conditions/index.#">Terms &#038; Conditions</a></li>
+                                <li id="menu-item-1166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1166"><a href="our-services/index.#">Services</a></li>
+                                <li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-848"><a href="contact/index.#">Contact</a>
                                     <ul class="sub-menu">
-                                        <li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-849"><a href="contact/index.html">Contact 1</a></li>
-                                        <li id="menu-item-850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-850"><a href="contact-2/index.html">Contact 2</a></li>
+                                        <li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-849"><a href="contact/index.#">Contact 1</a></li>
+                                        <li id="menu-item-850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-850"><a href="contact-2/index.#">Contact 2</a></li>
                                     </ul>
                                 </li>
-                                <li id="menu-item-853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-853"><a target="_blank" rel="noopener noreferrer" href="coming-soon/index.html">Coming Soon</a></li>
-                                <li id="menu-item-859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-859"><a href="restaurant/index.html">Restaurant</a></li>
-                                <li id="menu-item-887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-887"><a href="about-us/index.html">About Us</a>
+                                <li id="menu-item-853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-853"><a target="_blank" rel="noopener noreferrer" href="coming-soon/index.#">Coming Soon</a></li>
+                                <li id="menu-item-859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-859"><a href="restaurant/index.#">Restaurant</a></li>
+                                <li id="menu-item-887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-887"><a href="#">About Us</a>
                                     <ul class="sub-menu">
-                                        <li id="menu-item-888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-888"><a href="about-us/index.html">About Us 1</a></li>
-                                        <li id="menu-item-876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-876"><a href="about-us-2/index.html">About Us 2</a></li>
+                                        <li id="menu-item-888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-888"><a href="#">About Us 1</a></li>
+                                        <li id="menu-item-876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-876"><a href="about-us-2/index.#">About Us 2</a></li>
                                     </ul>
                                 </li>
-                                <li id="menu-item-875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-875"><a href="promotions/index.html">Promotions</a></li>
-                                <li id="menu-item-886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-886"><a href="testimonials/index.html">Testimonials</a></li>
-                                <li id="menu-item-945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-945"><a href="gallery/index.html">Gallery</a></li>
+                                <li id="menu-item-875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-875"><a href="promotions/index.#">Promotions</a></li>
+                                <li id="menu-item-886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-886"><a href="testimonials/index.#">Testimonials</a></li>
+                                <li id="menu-item-945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-945"><a href="#">Gallery</a></li>
                             </ul>
                         </li>
-                        <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-793"><a href="our-news/index.html">News</a>
+                        <li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-793"><a href="our-news/index.#">News</a>
                             <ul class="sub-menu">
-                                <li id="menu-item-800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-800"><a href="our-news/index.html">Archive</a>
+                                <li id="menu-item-800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-800"><a href="our-news/index.#">Archive</a>
                                     <ul class="sub-menu">
-                                        <li id="menu-item-1158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1158"><a href="our-news/index.html">Full Width</a></li>
-                                        <li id="menu-item-1157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1157"><a href="our-news-right-sidebar/index.html">Right Sidebar</a></li>
-                                        <li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="our-news-left-sidebar/index.html">Left Sidebar</a></li>
+                                        <li id="menu-item-1158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1158"><a href="our-news/index.#">Full Width</a></li>
+                                        <li id="menu-item-1157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1157"><a href="our-news-right-sidebar/index.#">Right Sidebar</a></li>
+                                        <li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="our-news-left-sidebar/index.#">Left Sidebar</a></li>
                                     </ul>
                                 </li>
-                                <li id="menu-item-796" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-796"><a href="new-website-online/index.html">Single Post</a>
+                                <li id="menu-item-796" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-796"><a href="new-website-online/index.#">Single Post</a>
                                     <ul class="sub-menu">
-                                        <li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-797"><a href="new-website-online/index.html">Right Sidebar</a></li>
-                                        <li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-798"><a href="around-us/index.html">Left Sidebar</a></li>
-                                        <li id="menu-item-799" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-799"><a href="daily-walk/index.html">Full Width</a></li>
+                                        <li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-797"><a href="new-website-online/index.#">Right Sidebar</a></li>
+                                        <li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-798"><a href="around-us/index.#">Left Sidebar</a></li>
+                                        <li id="menu-item-799" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-799"><a href="#">Full Width</a></li>
                                     </ul>
                                 </li>
                             </ul>
                         </li>
-                        <li id="menu-item-792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-792"><a href="contact/index.html">Contact</a>
+                        <li id="menu-item-792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-792"><a href="contact/index.#">Contact</a>
                             <ul class="sub-menu">
                                 <li id="menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-836"><a href="contact/index.html">Contact 1</a></li>
                                 <li id="menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837"><a href="contact-2/index.html">Contact 2</a></li>
@@ -1810,7 +1810,7 @@ EXPERIENCE</strong> </h1>
                                 <h1 style="color:#1c1c1d; padding:px; text-align:center; font-size:80px; line-height:80px; letter-spacing: px; font-weight:normal;" class="nd_options_font_size_40_important_all_iphone nd_options_line_height_40_important_all_iphone nd_options_first_font ">Relax in our Resort</h1>
                                 <p style="color:; padding:40px; text-align:center; font-size:px; line-height:px; letter-spacing: px; font-weight:lighter;" class=" nd_options_second_font ">Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim. Sed quis rutrum tellus, sit amet viverra felis. Cras sagittis sem sit amet urna feugiat rutrum. Nam nulla ipsum, venenatis malesuada felis.</p>
                                 <div class="nd_options_section nd_options_text_align_center">
-                                    <a style="border: px solid ; border-radius:px; letter-spacing:2px; line-height:11px; font-size:11px; background-color:#c19b76; padding:15px 35px; margin:; color:#ffffff;" rel="" href="about-us/index.html" class="nicdark_display_inline_block  nd_options_font_weight_bold nd_options_second_font  ">ABOUT US</a>
+                                    <a style="border: px solid ; border-radius:px; letter-spacing:2px; line-height:11px; font-size:11px; background-color:#c19b76; padding:15px 35px; margin:; color:#ffffff;" rel="" href="#" class="nicdark_display_inline_block  nd_options_font_weight_bold nd_options_second_font  ">ABOUT US</a>
                                 </div>
                                 <div style="background-color:; height: 25px;" class="nicdark_section"></div>
                             </div>
@@ -1913,7 +1913,7 @@ EXPERIENCE</strong> </h1>
                                                                     <div class="nd_booking_section nd_booking_height_20"></div>
                                                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel molestie nisl. Duis ac mi leo.</p>
                                                                     <div class="nd_booking_section nd_booking_height_20"></div>
-                                                                    <a style="background-color: #1c1c1c;" href="rooms/small-room/index.html" class="nd_booking_padding_15_30_important nd_options_second_font_important nd_booking_border_radius_0_important nd_options_color_white nd_booking_cursor_pointer nd_booking_display_inline_block nd_booking_font_size_11 nd_booking_font_weight_bold nd_booking_letter_spacing_2">BOOK <span class="nd_booking_display_none_all_iphone">NOW</span> FROM 30 $</a>
+                                                                    <a style="background-color: #1c1c1c;" href="#small-room/index.html" class="nd_booking_padding_15_30_important nd_options_second_font_important nd_booking_border_radius_0_important nd_options_color_white nd_booking_cursor_pointer nd_booking_display_inline_block nd_booking_font_size_11 nd_booking_font_weight_bold nd_booking_letter_spacing_2">BOOK <span class="nd_booking_display_none_all_iphone">NOW</span> FROM 30 $</a>
 
                                                                 </div>
                                                             </div>
@@ -1963,7 +1963,7 @@ EXPERIENCE</strong> </h1>
 
 
 
-                                                                <a href="rooms/family-room/index.html">
+                                                                <a href="#family-room/index.html">
                                                                     <div class="nd_booking_section nd_booking_position_relative">
 
                                                                         <img alt="" class="nd_booking_section" src="wp-content/uploads/sites/2/2017/06/room-6-720x720.jpg">
@@ -2000,7 +2000,7 @@ EXPERIENCE</strong> </h1>
 
 
 
-                                                                <a href="rooms/double-room/index.html">
+                                                                <a href="#double-room/index.html">
                                                                     <div class="nd_booking_section nd_booking_position_relative">
 
                                                                         <img alt="" class="nd_booking_section" src="wp-content/uploads/sites/2/2017/06/room-5-720x720.jpg">
@@ -2037,7 +2037,7 @@ EXPERIENCE</strong> </h1>
 
 
 
-                                                                <a href="rooms/luxury-room/index.html">
+                                                                <a href="#luxury-room/index.html">
                                                                     <div class="nd_booking_section nd_booking_position_relative">
 
                                                                         <img alt="" class="nd_booking_section" src="wp-content/uploads/sites/2/2017/06/room-4-720x720.jpg">
@@ -2074,7 +2074,7 @@ EXPERIENCE</strong> </h1>
 
 
 
-                                                                <a href="rooms/apartment/index.html">
+                                                                <a href="#apartment/index.html">
                                                                     <div class="nd_booking_section nd_booking_position_relative">
 
                                                                         <img alt="" class="nd_booking_section" src="wp-content/uploads/sites/2/2017/06/room-3-720x720.jpg">
@@ -2148,7 +2148,7 @@ EXPERIENCE</strong> </h1>
                                 </div>
                                 <div style="background-color:; height: 50px;" class="nicdark_section"></div>
 
-                                <a style="border: px solid ; border-radius:px; letter-spacing:2px; line-height:11px; font-size:11px; background-color:#151515; padding:15px 35px; margin:; color:#ffffff;" rel="" href="rooms/small-room/index.html" class="nicdark_display_inline_block nd_options_float_left nd_options_font_weight_bold nd_options_second_font  ">CHECK ALL PACKAGES</a>
+                                <a style="border: px solid ; border-radius:px; letter-spacing:2px; line-height:11px; font-size:11px; background-color:#151515; padding:15px 35px; margin:; color:#ffffff;" rel="" href="#small-room/index.html" class="nicdark_display_inline_block nd_options_float_left nd_options_font_weight_bold nd_options_second_font  ">CHECK ALL PACKAGES</a>
 
                             </div>
                         </div>
@@ -2735,7 +2735,7 @@ EXPERIENCE</strong> </h1>
                                                 <p class="nd_options_margin_0_important nd_options_padding_0">Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis.</p>
                                                 <div class="nd_options_section nd_options_height_20"></div>
                                                 <a style="border: 2px solid #c19b76; color:#c19b76;" class="nd_options_display_inline_block nd_options_line_height_11 nd_options_text_align_center nd_options_box_sizing_border_box nd_options_font_size_11 nd_options_font_weight_bold nd_options_second_font nd_options_padding_15_30  "
-                                                    href="about-us/index.html">READ MORE</a>
+                                                    href="#">READ MORE</a>
 
                                             </div>
 
@@ -2754,7 +2754,7 @@ EXPERIENCE</strong> </h1>
 
 
                                             <div class="nd_options_section nd_options_position_relative">
-                                                <a href="daily-walk/index.html"><img alt="" class="nd_options_section" src="wp-content/uploads/sites/2/2017/07/blog-4.jpg"></a>
+                                                <a href="#"><img alt="" class="nd_options_section" src="wp-content/uploads/sites/2/2017/07/blog-4.jpg"></a>
 
 
                                                 <div class="nd_options_bg_greydark_alpha_gradient_3 nd_options_position_absolute nd_options_left_0 nd_options_height_100_percentage nd_options_width_100_percentage nd_options_padding_30 nd_options_box_sizing_border_box">
@@ -2767,14 +2767,14 @@ EXPERIENCE</strong> </h1>
                                                         <div class="nd_options_section nd_options_height_15"></div>
 
                                                         <h2 class="nd_options_color_white">
-                                                            <a class="nd_options_color_white nd_options_first_font" href="daily-walk/index.html">
+                                                            <a class="nd_options_color_white nd_options_first_font" href="#">
 				        		Daily Walk
 				        	</a>
                                                         </h2>
 
                                                         <div class="nd_options_section nd_options_height_20"></div>
 
-                                                        <a class="nd_options_color_white nd_options_display_table_cell nd_options_vertical_align_middle nd_options_letter_spacing_3 nd_options_font_weight_lighter nd_options_font_size_11 nd_options_text_transform_uppercase" href="daily-walk/index.html">
+                                                        <a class="nd_options_color_white nd_options_display_table_cell nd_options_vertical_align_middle nd_options_letter_spacing_3 nd_options_font_weight_lighter nd_options_font_size_11 nd_options_text_transform_uppercase" href="#">
                                                             <span class="nd_options_float_left">READ MORE</span>
                                                             <img alt="" class="nd_options_float_left nd_options_margin_left_5 nd_options_margin_top_1" width="10" src="wp-content/plugins/nd-shortcodes/img/icons/icon-arrow-right-white.svg">
                                                         </a>
@@ -2804,7 +2804,7 @@ EXPERIENCE</strong> </h1>
                                                 <img alt="" class="nd_options_margin_right_10" width="20" height="20" src="wp-content/plugins/nd-shortcodes/img/icons/icon-link-2-white.svg">
                                                 <h2 class="nd_options_color_white nd_options_line_height_35 nd_options_display_inline_block">
                                                     <span class="nd_options_padding_botttom_5">
-	                    		<a class="nd_options_color_white nd_options_first_font nd_options_letter_spacing_3 nd_options_font_weight_lighter" href="gallery/index.html">
+	                    		<a class="nd_options_color_white nd_options_first_font nd_options_letter_spacing_3 nd_options_font_weight_lighter" href="#">
 	                    			Check New Pictures
 	                    		</a>
 	                    	</span>

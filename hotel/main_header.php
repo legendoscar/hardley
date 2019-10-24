@@ -1,4 +1,4 @@
-<a href="http://www.nicdarkthemes.com/themes/hotel/wp/demo/hotel"><img style="top:27px;" alt="" class="nd_options_position_absolute nd_options_left_15" width="170" src="wp-content/uploads/sites/2/2017/09/hotel-logo.png"></a>
+<a href="index.php"><img style="top:27px;" alt="" class="nd_options_position_absolute nd_options_left_15" width="170" src="wp-content/uploads/sites/2/2017/09/hotel-logo.png"></a>
 
                         <div class="nd_options_navigation_2 nd_options_navigation_type nd_options_text_align_right nd_options_float_right nd_options_display_none_all_responsive">
 
